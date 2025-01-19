@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Wu Zhenghan"
+  avatar           : "profile.jpg"
+  name             : &name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Sichuan University"
   location         : "Chengdu, Sichuan"
-  employer         : "Sichuan University"
+  employer         : "Sichuan University CCS"
   uri              : # URL
   email            : "none@example.org" 
 
