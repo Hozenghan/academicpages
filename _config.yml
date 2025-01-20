@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : &name
+  name             : Hozenghan
   pronouns         : # example: "she/her"  
   bio              : "Sichuan University"
   location         : "Chengdu, Sichuan"
